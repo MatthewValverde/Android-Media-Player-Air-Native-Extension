@@ -1,0 +1,8 @@
+<platform xmlns="http://ns.adobe.com/air/extension/4.0">
+	<packagedResources>
+		<packagedResource>
+			<packageName>com.ane.mediaplayer</packageName>
+			<folderName>res</folderName>
+		</packagedResource>
+	</packagedResources>
+</platform>

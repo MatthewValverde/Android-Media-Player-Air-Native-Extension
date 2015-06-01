@@ -1,0 +1,5 @@
+You must make sure that the current resources for the AndroidBuild code are also copied to this folder.
+
+Copy the res folder from the AndroidBuild and paste it into this directory, replacing all previous resources.
+
+This is only needed if you change, add or alter in any way the res folder in the AndroidBuild.

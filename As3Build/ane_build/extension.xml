@@ -1,0 +1,16 @@
+<extension xmlns="http://ns.adobe.com/air/extension/4.0">
+	<id>com.ane.mediaplayer</id>
+	<versionNumber>1</versionNumber>
+	<platforms>
+		<platform name="Android-ARM">
+			<applicationDeployment>			
+				<nativeLibrary>MediaPlayerAne.jar</nativeLibrary>
+				<initializer>com.ane.mediaplayer.extensions.VideoPlayerExtension</initializer>
+			</applicationDeployment>
+		</platform>
+		<platform name="default">
+			<applicationDeployment/>
+		</platform>
+	</platforms>
+</extension>
+

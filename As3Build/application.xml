@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/4.0">
+	
+	<id>com.ane.mediaplayer</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>MediaPlayerAneLibrary</filename> 
+	
+	<name>MediaPlayerAneLibrary</name> 
+	<description></description> 
+	<copyright></copyright> 
+	
+	<initialWindow> 
+		<title>MediaPlayerAneLibrary</title> 
+		<content>MediaPlayerAneLibrary.swf</content> 
+		<systemChrome>standard</systemChrome> 
+		<transparent>false</transparent> 
+		<visible>true</visible> 
+		<minimizable>true</minimizable> 
+		<maximizable>true</maximizable> 
+		<resizable>true</resizable> 
+	</initialWindow> 
+	
+</application>

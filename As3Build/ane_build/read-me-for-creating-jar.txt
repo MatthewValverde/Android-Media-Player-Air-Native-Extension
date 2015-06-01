@@ -1,0 +1,9 @@
+When creating jar file in Eclipse:
+
+Make sure your project is a checked as a Library project-- under properties/Android.
+
+This will make sure that the resources are available in the AIR mobile app.
+
+When exporting jar, exclude or uncheck the 'gen' directory which contains the BuildConfig.java and R.java classes.
+
+If you do not exclude the 'gen' directory, you will recieve an error when packaging the AIR mobile app.

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_c46e4a837866c0075d4403fa7995c137ab6d5f85da075a34e9dc274e6ba60713_flash_display_Sprite" mod="1397683532275" signatureChecksum="3374414213" >
+        <def id="_c46e4a837866c0075d4403fa7995c137ab6d5f85da075a34e9dc274e6ba60713_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/ane/mediaplayer/MediaPlayerAne" mod="1397683510692" signatureChecksum="2755575778" >
+        <def id="com.ane.mediaplayer:MediaPlayerAne" /> 
+        <dep id="flash.events:EventDispatcher" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="flash.events:EventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="Error" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="MainMediaPlayerAne" mod="1394666127638" signatureChecksum="442971145" >
+        <def id="MainMediaPlayerAne" /> 
+        <dep id="com.ane.mediaplayer:MediaPlayerAne" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="f36268eb3d8d5837ffdd943dfbe6899ca29915a7b2cf920b5747b45f03a8b695"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
